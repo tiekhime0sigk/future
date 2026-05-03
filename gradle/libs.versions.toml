@@ -1,5 +1,5 @@
 [versions]
-aeroplane = "2.3.11"
+aeroplane = "3.4.3"
 
 [libraries]
 aeroplane = { module = "io.ktor:ktor-client-cio", version.ref = "aeroplane" }
